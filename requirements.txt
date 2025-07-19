@@ -1,0 +1,5 @@
+streamlit>=1.18.0
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.5.0
+japanize_matplotlib>=1.1.0
